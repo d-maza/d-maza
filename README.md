@@ -1,4 +1,4 @@
-<div align="center"><img width="500" src="https://raw.githubusercontent.com/d-maza/static_web_react_demo/main/src/assets/DiveCode-bn.png" alt="d- maza" /></div>
+<div align="center"><img width="500" src="https://raw.githubusercontent.com/d-maza/static_web_react_demo/main/src/assets/DiveCodeHitHub.png" alt="d- maza" /></div>
 
 <hr>
 
