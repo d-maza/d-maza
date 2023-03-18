@@ -1,4 +1,4 @@
-<div align="center"><img width="400" src="https://raw.githubusercontent.com/d-maza/static_web_react_demo/main/src/assets/DiveCode-bg.png" alt="d- maza" /></div>
+<div align="center" style="background-color: rgba(41, 37, 37, 0.795);"><img width="400" src="https://raw.githubusercontent.com/d-maza/static_web_react_demo/main/src/assets/DiveCode-bg.png" alt="d- maza" /></div>
 
 <hr>
 
@@ -57,4 +57,3 @@
 <p><img align="left" width="354" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-maza&show_icons=true&locale=en&layout=compact&theme=radical" alt="d- maza" /></p>
 
 <p> <img align="center"  src="https://github-readme-stats.vercel.app/api?username=d-maza&show_icons=true&locale=en&theme=radical" alt ="d-maza" /></p>
- 
