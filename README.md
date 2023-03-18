@@ -1,11 +1,13 @@
-<h1 align="center">Hola 👋, soy David Maza</h1>
+<div align="center"><img width="400" src="https://raw.githubusercontent.com/d-maza/static_web_react_demo/main/src/assets/DiveCode-bg.png" alt="d- maza" /></div>
+
+<hr>
 
 <div align="center">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&center=falso&vCenter=falso&repeat=verdadero&width=580&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+David+Maza%2C+Full+Stack++Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB+%26+Aquaman+%F0%9F%A7%9C%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
-<div><img align="center" width="580" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" alt="d- maza" /></div>
+
  
  </br>
  
