@@ -53,6 +53,8 @@
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d-maza&theme=github_dark)  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-maza&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="d- maza" /></p>
+ 
+<p><img align="left" width="354" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-maza&show_icons=true&locale=en&layout=compact&theme=radical" alt="d- maza" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-maza&show_icons=true&locale=en&theme=github_dark" alt ="d-maza" /></p>
+<p> <img align="center"  src="https://github-readme-stats.vercel.app/api?username=d-maza&show_icons=true&locale=en&theme=radical" alt ="d-maza" /></p>
+ 
