@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on [Mar de Fons](https://mardefons.es/)
 
-🌱 I’m currently learning **Astro, Qwit**
+🌱 I’m currently learning.. Java, C#
 
 👯 I’m looking to collaborate on [Código Útil](https://codigoutil.com/)
 
