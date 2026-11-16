@@ -12,9 +12,9 @@
  
 <div align="center">
  
- 🔭 I’m currently working on [T-Systems](https://www.t-systems.com/es/es/)
+ 🔭 I’m currently working on iAhorro.com
 
-🌱 I’m currently learning.. Java, C#
+🌱 I’m currently learning.. Rust
 
 👯 I’m looking to collaborate on [Código Útil](https://codigoutil.com/)
 
